@@ -1,2 +1,2 @@
-two add first line
-two add second line
+master add first line
+master add second line
